@@ -26,3 +26,9 @@ body {
 .black {
   background-color: #b58863;
 }
+
+.square img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
